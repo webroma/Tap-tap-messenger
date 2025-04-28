@@ -1,7 +1,0 @@
-[
-    {
-        "email": "romed252@gmail.com",
-        "password": "$2y$10$g8s5awaSEYrh6khAvWYMEuretIN6.ssPWLgu5WOkdR8Ge\/tbCchxG",
-        "nickname": "admin"
-    }
-]
